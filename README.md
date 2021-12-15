@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on making projects.
 - 📫 You can reach me on...<br>
     Insta     - <a href="https://www.instagram.com/maruthi_pothuganti/">maruthi_pothuganti</a><br>
-    LinkedIn - <a href="https://www.linkedin.com/in/maruthi-pothuganti-3a8575179/">Maruthi-Pothuganti</a>
+    LinkedIn - <a href="https://www.linkedin.com/in/maruthi-pothuganti-3a8575179/">Maruthi-Pothuganti</a><br>
+    Portfolio - <a href="https://maruthipothuganti.netlify.app/">Maruthi Pothuganti</a>
 
 

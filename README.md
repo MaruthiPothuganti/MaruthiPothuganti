@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on - Lube - A video Library App<br>👯 I’m looking to collaborate on - Building MERN projects<br>🌱 I’m currently learning - MERN stack
+🔭 I’m currently working on - Tomato - A Pomodoro App<br>👯 I’m looking to collaborate on - Building MERN projects<br>🌱 I’m currently learning - MERN stack
 
 
 ## 🌐 Socials:

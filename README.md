@@ -14,7 +14,7 @@
 
 ## 👨‍💻Contributions
 
-<img alt="Aman Mandal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MaruthiPothuganti&theme=radical&area=true" width="100%"  />
+<img alt="Maruthi Pothuganti's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MaruthiPothuganti&theme=radical&area=true" width="100%"  />
 
 
 ## 🏆 GitHub Trophies

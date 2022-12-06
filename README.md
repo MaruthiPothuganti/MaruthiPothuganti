@@ -12,10 +12,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MaruthiPothuganti&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MaruthiPothuganti&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 👨‍💻Contributions
-
-<img alt="Maruthi Pothuganti's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MaruthiPothuganti&theme=radical&area=true" width="100%"  />
-
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MaruthiPothuganti&theme=radical&no-frame=false&no-bg=true&margin-w=4)

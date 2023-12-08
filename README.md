@@ -2,7 +2,7 @@
 🔭
 ## Hello, I'm Maruthi Pothuganti 👋
 
-#### Frontend Wizard 🪄 | React Sorcerer ⚛️ | Tailwind Tamer 🌈 | Next.js Enthusiast 🚀
+#### Frontend Wizard 🪄 
 
 Greetings, fellow internet wanderer! 👾 Welcome to my corner of the digital realm. They say I write code with a touch of magic, and I'm here to sprinkle some frontend enchantment into your life.
 
